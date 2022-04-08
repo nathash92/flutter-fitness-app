@@ -1,6 +1,6 @@
-import 'package:fitness/shared/widgets/category-card.dart';
-import 'package:fitness/shared/widgets/section-header.dart';
-import 'package:fitness/shared/widgets/section-view-all.dart';
+import 'package:fitness/shared/widgets/category_card.dart';
+import 'package:fitness/shared/widgets/section_header.dart';
+import 'package:fitness/shared/widgets/section_view_all.dart';
 import 'package:flutter/material.dart';
 
 class CategorySlide extends StatelessWidget {

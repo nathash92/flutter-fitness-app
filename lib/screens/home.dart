@@ -1,8 +1,8 @@
-import 'package:fitness/shared/widgets/category-slide.dart';
-import 'package:fitness/shared/widgets/excercise-card.dart';
-import 'package:fitness/shared/widgets/excercise-start-card.dart';
-import 'package:fitness/shared/widgets/section-header.dart';
-import 'package:fitness/shared/widgets/section-view-all.dart';
+import 'package:fitness/shared/widgets/category_slide.dart';
+import 'package:fitness/shared/widgets/excercise_card.dart';
+import 'package:fitness/shared/widgets/excercise_start_card.dart';
+import 'package:fitness/shared/widgets/section_header.dart';
+import 'package:fitness/shared/widgets/section_view_all.dart';
 import 'package:flutter/material.dart';
 
 class HomeScreen extends StatelessWidget {

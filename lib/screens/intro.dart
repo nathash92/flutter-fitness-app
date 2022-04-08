@@ -31,15 +31,15 @@ class _IntroScreenState extends State<IntroScreen> {
             },
             children: <Widget>[
               _buildSlide(
-                'assets/imgs/banner0.jpg',
-                'Perfect Body \nDoing Crossfit \nExercises',
-              ),
-              _buildSlide(
                 'assets/imgs/banner1.jpeg',
                 'Perfect Body \nDoing Crossfit \nExercises',
               ),
               _buildSlide(
                 'assets/imgs/banner2.jpg',
+                'Perfect Body \nDoing Crossfit \nExercises',
+              ),
+              _buildSlide(
+                'assets/imgs/banner3.jpeg',
                 'Perfect Body \nDoing Crossfit \nExercises',
               ),
             ],

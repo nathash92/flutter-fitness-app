@@ -1,4 +1,3 @@
-import 'package:fitness/constants/app_colors.dart';
 import 'package:fitness/screens/home.dart';
 import 'package:fitness/screens/intro.dart';
 import 'package:flutter/material.dart';
@@ -6,7 +5,7 @@ import 'package:flutter/services.dart';
 
 void main() {
   SystemChrome.setSystemUIOverlayStyle(
-    SystemUiOverlayStyle(statusBarColor: AppColors.primaryColor),
+    const SystemUiOverlayStyle(statusBarColor: Colors.black),
   );
   runApp(const MyApp());
 }

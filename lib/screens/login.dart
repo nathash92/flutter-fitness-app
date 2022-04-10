@@ -1,5 +1,3 @@
-import 'dart:html';
-
 import 'package:fitness/constants/app_colors.dart';
 import 'package:fitness/constants/app_configs.dart';
 import 'package:fitness/shared/widgets/gapper.dart';

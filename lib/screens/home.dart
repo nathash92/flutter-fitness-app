@@ -43,7 +43,7 @@ class HomeScreen extends StatelessWidget {
           ],
         ),
       ),
-      bottomNavigationBar: AppBottomNav(),
+      bottomNavigationBar: const AppBottomNav(),
     );
   }
 }
@@ -150,17 +150,17 @@ class ExcerciseList extends StatelessWidget {
 
   Widget _buildCard() {
     return Column(
-      children: [
-        const SizedBox(
+      children: const [
+        SizedBox(
           height: 10.0,
         ),
         ExcerciseCard(
           template: 1,
         ),
-        const SizedBox(
+        SizedBox(
           height: 10.0,
         ),
-        const Divider(
+        Divider(
           thickness: 1.0,
         ),
       ],
@@ -194,17 +194,17 @@ class _AdditionalExcerciseList extends StatelessWidget {
 
   Widget _buildCard() {
     return Column(
-      children: [
-        const SizedBox(
+      children: const [
+        SizedBox(
           height: 10.0,
         ),
         ExcerciseCard(
           template: 2,
         ),
-        const SizedBox(
+        SizedBox(
           height: 10.0,
         ),
-        const Divider(
+        Divider(
           thickness: 1.0,
         ),
       ],

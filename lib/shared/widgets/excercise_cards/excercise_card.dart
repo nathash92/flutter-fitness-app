@@ -4,9 +4,9 @@ import 'package:fitness/shared/widgets/excercise_cards/excercise_card_two.dart';
 import 'package:flutter/material.dart';
 
 class ExcerciseCard extends StatelessWidget {
-  int template;
+  final int template;
 
-  ExcerciseCard({
+  const ExcerciseCard({
     Key? key,
     required this.template,
   }) : super(key: key);

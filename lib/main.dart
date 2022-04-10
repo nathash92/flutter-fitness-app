@@ -1,5 +1,6 @@
 import 'package:fitness/screens/home.dart';
 import 'package:fitness/screens/intro.dart';
+import 'package:fitness/screens/login.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
@@ -27,6 +28,7 @@ class MyApp extends StatelessWidget {
         '/': (context) => const IntroScreen(),
         '/intro': (context) => const IntroScreen(),
         '/home': (context) => const HomeScreen(),
+        '/login': (context) => const LoginScreen()
       },
     );
   }

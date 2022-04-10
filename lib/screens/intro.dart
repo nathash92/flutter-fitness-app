@@ -72,7 +72,7 @@ class _IntroScreenState extends State<IntroScreen> {
           clickCallback: () => {
             if (currentPageIndex == 2)
               {
-                Navigator.pushReplacementNamed(context, '/home'),
+                Navigator.pushReplacementNamed(context, '/login'),
               }
             else
               {

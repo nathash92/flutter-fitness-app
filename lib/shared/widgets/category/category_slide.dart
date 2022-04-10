@@ -1,6 +1,6 @@
-import 'package:fitness/shared/widgets/category_card.dart';
-import 'package:fitness/shared/widgets/section_header.dart';
-import 'package:fitness/shared/widgets/section_view_all.dart';
+import 'package:fitness/shared/widgets/category/category_card.dart';
+import 'package:fitness/shared/widgets/sections/section_header.dart';
+import 'package:fitness/shared/widgets/sections/section_view_all.dart';
 import 'package:flutter/material.dart';
 
 class CategorySlide extends StatelessWidget {
@@ -29,7 +29,7 @@ class CategorySlide extends StatelessWidget {
             scrollDirection: Axis.horizontal,
             itemBuilder: (BuildContext context, int index) {
               return const Padding(
-                padding: EdgeInsets.all(5.0),
+                padding: EdgeInsets.only(right: 20.0),
                 child: CategoryCard(),
               );
             },

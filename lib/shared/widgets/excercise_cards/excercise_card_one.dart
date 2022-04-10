@@ -1,8 +1,9 @@
+
 import 'package:fitness/constants/app_colors.dart';
 import 'package:flutter/material.dart';
 
-class ExcerciseCard extends StatelessWidget {
-  const ExcerciseCard({Key? key}) : super(key: key);
+class ExcerciseCardOne extends StatelessWidget {
+  const ExcerciseCardOne({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -31,7 +32,7 @@ class ExcerciseCard extends StatelessWidget {
           ),
         ),
         const SizedBox(
-          height: 5.0,
+          height: 10.0,
         ),
         const Text(
           'Full Shot Woman Strecting Arm',

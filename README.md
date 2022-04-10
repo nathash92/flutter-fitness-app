@@ -11,31 +11,22 @@ A sample POC APP
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/nathash92/flutter-fitness-app/master/screenshots/intro-1.jpg)
+<img src="https://raw.githubusercontent.com/nathash92/flutter-fitness-app/master/screenshots/intro-1.jpg" width="412">
 
----
+<img src="https://raw.githubusercontent.com/nathash92/flutter-fitness-app/master/screenshots/intro-2.jpg" width="412">
 
-![App Screenshot](https://raw.githubusercontent.com/nathash92/flutter-fitness-app/master/screenshots/intro-2.jpg)
+<img src="https://raw.githubusercontent.com/nathash92/flutter-fitness-app/master/screenshots/intro-2.jpg" width="412">
 
----
+<img src="https://raw.githubusercontent.com/nathash92/flutter-fitness-app/master/screenshots/login.jpg" width="412">
 
-![App Screenshot](https://raw.githubusercontent.com/nathash92/flutter-fitness-app/master/screenshots/login.jpg)
+<img src="https://raw.githubusercontent.com/nathash92/flutter-fitness-app/master/screenshots/home-1.jpg" width="412">
 
----
+<img src="https://raw.githubusercontent.com/nathash92/flutter-fitness-app/master/screenshots/home-2.jpg" width="412">
 
-![App Screenshot](https://raw.githubusercontent.com/nathash92/flutter-fitness-app/master/screenshots/home-1.jpg)
+<img src="https://raw.githubusercontent.com/nathash92/flutter-fitness-app/master/screenshots/home-3.jpg" width="412">
 
----
+<img src="https://raw.githubusercontent.com/nathash92/flutter-fitness-app/master/screenshots/home-4.jpg" width="412">
 
-![App Screenshot](https://raw.githubusercontent.com/nathash92/flutter-fitness-app/master/screenshots/home-2.jpg)
-
----
-
-![App Screenshot](https://raw.githubusercontent.com/nathash92/flutter-fitness-app/master/screenshots/home-3.jpg)
-
----
-
-![App Screenshot](https://raw.githubusercontent.com/nathash92/flutter-fitness-app/master/screenshots/home-4.jpg)
 
 ---
 

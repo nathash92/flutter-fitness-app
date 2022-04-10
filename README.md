@@ -1,16 +1,45 @@
-# fitness
 
-A new Flutter project.
+# Flutter Fitness App [Demo APP]
 
-## Getting Started
+A sample POC APP
 
-This project is a starting point for a Flutter application.
+## Developed using following
 
-A few resources to get you started if this is your first Flutter project:
+- Fluter 2.15
+- Nunito_Sans Font
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/nathash92/flutter-fitness-app/master/screenshots/intro-1.jpg)
+
+---
+
+![App Screenshot](https://raw.githubusercontent.com/nathash92/flutter-fitness-app/master/screenshots/intro-2.jpg)
+
+---
+
+![App Screenshot](https://raw.githubusercontent.com/nathash92/flutter-fitness-app/master/screenshots/login.jpg)
+
+---
+
+![App Screenshot](https://raw.githubusercontent.com/nathash92/flutter-fitness-app/master/screenshots/home-1.jpg)
+
+---
+
+![App Screenshot](https://raw.githubusercontent.com/nathash92/flutter-fitness-app/master/screenshots/home-2.jpg)
+
+---
+
+![App Screenshot](https://raw.githubusercontent.com/nathash92/flutter-fitness-app/master/screenshots/home-3.jpg)
+
+---
+
+![App Screenshot](https://raw.githubusercontent.com/nathash92/flutter-fitness-app/master/screenshots/home-4.jpg)
+
+---
+
+## Authors
+
+- [@nathashKumar](https://www.github.com/nathash92)
+

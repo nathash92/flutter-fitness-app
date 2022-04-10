@@ -15,6 +15,7 @@ class LoginScreen extends StatelessWidget {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
+              const Gapper(gap: 20.0),
               InkWell(
                 onTap: () {
                   Navigator.pushNamed(context, '/home');

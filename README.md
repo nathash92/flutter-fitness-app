@@ -15,8 +15,6 @@ A sample POC APP
 
 <img src="https://raw.githubusercontent.com/nathash92/flutter-fitness-app/master/screenshots/intro-2.jpg" width="412">
 
-<img src="https://raw.githubusercontent.com/nathash92/flutter-fitness-app/master/screenshots/intro-2.jpg" width="412">
-
 <img src="https://raw.githubusercontent.com/nathash92/flutter-fitness-app/master/screenshots/login.jpg" width="412">
 
 <img src="https://raw.githubusercontent.com/nathash92/flutter-fitness-app/master/screenshots/home-1.jpg" width="412">
